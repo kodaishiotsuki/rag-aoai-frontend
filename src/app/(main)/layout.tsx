@@ -3,7 +3,7 @@
 import React from "react";
 import { Provider } from "react-redux";
 import { store } from "../../store/store";
-import SideMenu from "@/components/sidemenu/SideMenu";
+import SideMenu from "@/components/SideMenu/SideMenu";
 
 const MainLayout = ({ children }: { children: React.ReactNode }) => {
   return (

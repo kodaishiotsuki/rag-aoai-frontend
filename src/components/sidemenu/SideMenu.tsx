@@ -1,5 +1,5 @@
 import { IoEarth } from "react-icons/io5";
-import NavList from "../navlist/NavList";
+import NavList from "../NavList/NavList";
 
 export default function SideMenu() {
   return (
