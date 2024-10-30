@@ -24,7 +24,7 @@ const MessageItem = ({
           </motion.span>
         ))}
       </div>
-      <div className="flex items-center justify-center w-10 h-10 overflow-hidden bg-gray-100 rouded-full ml-4">
+      <div className="flex items-center justify-center w-10 h-10 overflow-hidden bg-gray-100 rounded-full ml-4">
         <div className="font-medium text-gray-600">
           <GrUserManager />
         </div>

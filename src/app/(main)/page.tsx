@@ -1,3 +1,4 @@
+import FormInput from "@/components/FormInput/FormInput";
 import MessageArea from "@/components/MessageArea/MessageArea";
 
 export default function Home() {
@@ -7,8 +8,7 @@ export default function Home() {
         <MessageArea />
       </div>
       <div className="flex h-1/6 p-4 justify-center items-center">
-        {/* <FormInput /> */}
-        FormInput
+        <FormInput />
       </div>
     </main>
   );
